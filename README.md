@@ -47,7 +47,7 @@ O projeto segue o padrão em **camadas**:
 ### Passo a passo
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/LucasCiacci/AppNomesBr.git
+   git clone https://github.com/ViniciusAlvesz/AppNomesBr_Atividade.git
 
 2. Abra a solução no Visual Studio 2022:
    ```bash
@@ -84,5 +84,5 @@ O projeto segue o padrão em **camadas**:
 
 ## 👩‍💻👨‍💻 Autores
 
-- Lucas Silva Ciacci  
-- Fernanda Laudares Silva  
+- Vinicius Henrique André Alves
+- Matheus Percker 
