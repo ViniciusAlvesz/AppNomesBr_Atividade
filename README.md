@@ -82,7 +82,7 @@ O projeto segue o padrão em **camadas**:
 
 ---
 
-## 👩‍💻👨‍💻 Autores
+## 👨‍💻👨‍💻 Autores
 
 - Vinicius Henrique André Alves
 - Matheus Percker 
